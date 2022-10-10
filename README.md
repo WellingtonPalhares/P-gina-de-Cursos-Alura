@@ -6,10 +6,14 @@ Projeto referente a trilha de `Front-End` oferecido pela [Alura](https://www.alu
 
 ## Objetivos
 
+* Estilização de uma página utilizando `flexbox`.
+* Criar uma página `responsiva` para diferentes tamanhos de dispositivos.
 
 ## 💻 Tecnologias
 
 * CSS
 
 ## Acesse o site :globe_with_meridians:
+
+link: https://cursos-alura-wrp.netlify.app/
 
